@@ -1,0 +1,11 @@
+campaign_id,campaign_name,channel,spend,impressions,clicks,conversions,revenue
+CMP_001,Summer Sale Meta,Meta,5000,250000,7500,180,9000
+CMP_002,Google Search Brand,Google Search,12000,450000,22000,850,42500
+CMP_003,LinkedIn B2B Outreach,LinkedIn,8500,80000,1200,32,4800
+CMP_004,Retargeting Display,Display,3100,190000,2100,45,2100
+CMP_005,Newsletter Blast Q2,Email,450,35000,1800,95,5700
+CMP_006,Influencer Pack Tech,Influencer,15000,600000,18000,210,16800
+CMP_007,Google Shopping Apparel,Google Shopping,9200,310000,14000,410,24600
+CMP_008,Meta Lookalike Audience,Meta,6000,280000,8900,290,17400
+CMP_009,YouTube Pre-Roll Tech,YouTube,11000,850000,9500,110,8800
+CMP_010,X Promo Devs,X,2500,120000,3100,65,3900
